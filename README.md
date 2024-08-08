@@ -19,7 +19,7 @@
 
 | 𝖳𝗂𝗍𝗅𝖾 | 𝖲𝗍𝖺𝗋𝗍 𝖣𝖺𝗍𝖾 | 𝖢𝗈𝗆𝗉𝗅𝖾𝗍𝖾 𝖣𝖺𝗍𝖾 | 𝖫𝖺𝗌𝗍 𝖬𝗈𝖽𝗂𝖿𝗂𝖾𝖽 | 𝖢𝗈𝗆𝗆𝖾𝗇𝗍𝗌 | 𝖫𝗂𝗇𝗄 |
 |:--- |:---: |:---: |:---: |:---: |:---: |
-| Healthcare Insurance Fraud Detection Using Machine Learning | 10 June 2024 | tba | tba | In Progress | <a href="https://github.com/rahibulbul/Healthcare-Insurance-Fraud-Detection-Using-Machine-Learning">Teleport to Project</a> |
+| Healthcare Insurance Fraud Detection Using Machine Learning | 10 June 2024 | tba | tba | In Progress | <a href="https://github.com/rahibulbul/HealthCare-Insurance-fraud">Teleport to Project</a> |
 
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
 - 𝖤𝗆𝖺𝗂𝗅: <a href="mailto:rahibulbulrahi@gmail.com">rahibulbulrahi@gmail.com</a>
